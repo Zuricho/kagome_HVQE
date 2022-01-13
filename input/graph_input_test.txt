@@ -1,0 +1,6 @@
+complete_graph_input=[(0,1),(1,2),(2,3),(3,0)]
+init_layer_input=[(0,1),(2,3)]
+layers_input=[
+	[(1,2),(3,0)],
+	[(0,1),(2,3)]
+	]
